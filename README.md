@@ -1,7 +1,12 @@
-# Titulo
+# Hi, I'm Thamires!
 
-## Titulo 2
+***
+Data Analyst in Training
 
-**Negrito**
+Currently learning **Python, SQL and Power B.I**
 
-Texto normal
+***
+
+## Some of my projects
+
+*Loading...*
